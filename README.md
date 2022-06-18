@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi Everyone, Jabin this side 👋
+
+- 🌱 I’m currently persuing MTech Integrated in Computer Science from VIT,Vellore
+- 🔭 I’m a Tech Enthusiast, with Problem Solving and Programming Skills
+- 🔭 Java Coder
+- 💬 Ask me about Programming
+- 📫 How to reach me: (https://www.linkedin.com/in/jabin-t-varughese-4a46931b6)
+- ⚡ Hobbies: Singer,Badminton Player, Traveller 
 
 <!--
 **JABINVARUGHESE/JABINVARUGHESE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
